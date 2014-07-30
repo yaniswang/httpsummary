@@ -1,0 +1,25 @@
+{
+  "name": "pagerun-httpsummary",
+  "version": "0.9.1",
+  "description": "Save http summary for pagerun.",
+  "main": "httpsummary",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yaniswang/pagerun-httpsummary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yaniswang/pagerun-httpsummary/issues"
+  },
+  "keywords": [
+    "pagerun",
+    "http",
+    "summary",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Yanis Wang",
+  "license": "MIT"
+}
